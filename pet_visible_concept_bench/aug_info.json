@@ -1,0 +1,1296 @@
+{
+  "2/american_pit_bull_terrier_23_2.jpg": {
+    "original": "american_pit_bull_terrier_23.jpg",
+    "output": "2/american_pit_bull_terrier_23_2.jpg",
+    "type": "crop",
+    "left": 139,
+    "top": 108,
+    "right": 297,
+    "bottom": 298
+  },
+  "2/american_pit_bull_terrier_56_0.jpg": {
+    "original": "american_pit_bull_terrier_56.jpg",
+    "output": "2/american_pit_bull_terrier_56_0.jpg",
+    "type": "crop",
+    "left": 39,
+    "top": 166,
+    "right": 289,
+    "bottom": 333
+  },
+  "26/Ragdoll_4_2.jpg": {
+    "original": "Ragdoll_4.jpg",
+    "output": "26/Ragdoll_4_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 198,
+        "top": 129,
+        "right": 223,
+        "bottom": 150,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 251,
+        "top": 120,
+        "right": 273,
+        "bottom": 140,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 163,
+        "top": 124,
+        "right": 184,
+        "bottom": 138,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "26/Ragdoll_53_2.jpg": {
+    "original": "Ragdoll_53.jpg",
+    "output": "26/Ragdoll_53_2.jpg",
+    "type": "crop",
+    "left": 116,
+    "top": 172,
+    "right": 330,
+    "bottom": 386
+  },
+  "34/staffordshire_bull_terrier_24_2.jpg": {
+    "original": "staffordshire_bull_terrier_24.jpg",
+    "output": "34/staffordshire_bull_terrier_24_2.jpg",
+    "type": "crop",
+    "left": 99,
+    "top": 99,
+    "right": 238,
+    "bottom": 332
+  },
+  "34/staffordshire_bull_terrier_44_1.jpg": {
+    "original": "staffordshire_bull_terrier_44.jpg",
+    "output": "34/staffordshire_bull_terrier_44_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 147,
+        "top": 129,
+        "right": 189,
+        "bottom": 151,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 259,
+        "top": 127,
+        "right": 305,
+        "bottom": 148,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "18/keeshond_49_1.jpg": {
+    "original": "keeshond_49.jpg",
+    "output": "18/keeshond_49_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 149,
+        "top": 170,
+        "right": 207,
+        "bottom": 242,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "18/keeshond_8_1.jpg": {
+    "original": "keeshond_8.jpg",
+    "output": "18/keeshond_8_1.jpg",
+    "type": "crop",
+    "left": 22,
+    "top": 166,
+    "right": 163,
+    "bottom": 378
+  },
+  "25/pug_70_0.jpg": {
+    "original": "pug_70.jpg",
+    "output": "25/pug_70_0.jpg",
+    "type": "crop",
+    "left": 233,
+    "top": 17,
+    "right": 449,
+    "bottom": 172
+  },
+  "25/pug_71_1.jpg": {
+    "original": "pug_71.jpg",
+    "output": "25/pug_71_1.jpg",
+    "type": "crop",
+    "left": 60,
+    "top": 24,
+    "right": 282,
+    "bottom": 172
+  },
+  "36/yorkshire_terrier_76_0.jpg": {
+    "original": "yorkshire_terrier_76.jpg",
+    "output": "36/yorkshire_terrier_76_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 125,
+        "top": 289,
+        "right": 261,
+        "bottom": 372,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "36/yorkshire_terrier_96_1.jpg": {
+    "original": "yorkshire_terrier_96.jpg",
+    "output": "36/yorkshire_terrier_96_1.jpg",
+    "type": "crop",
+    "left": 81,
+    "top": 0,
+    "right": 340,
+    "bottom": 173
+  },
+  "27/Russian_Blue_53_0.jpg": {
+    "original": "Russian_Blue_53.jpg",
+    "output": "27/Russian_Blue_53_0.jpg",
+    "type": "crop",
+    "left": 227,
+    "top": 182,
+    "right": 456,
+    "bottom": 354
+  },
+  "27/Russian_Blue_67_1.jpg": {
+    "original": "Russian_Blue_67.jpg",
+    "output": "27/Russian_Blue_67_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 209,
+        "top": 183,
+        "right": 298,
+        "bottom": 222,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 208,
+        "top": 138,
+        "right": 311,
+        "bottom": 222,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "6/Birman_37_0.jpg": {
+    "original": "Birman_37.jpg",
+    "output": "6/Birman_37_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 114,
+        "top": 177,
+        "right": 135,
+        "bottom": 196,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 64,
+        "top": 179,
+        "right": 88,
+        "bottom": 199,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "6/Birman_4_1.jpg": {
+    "original": "Birman_4.jpg",
+    "output": "6/Birman_4_1.jpg",
+    "type": "crop",
+    "left": 173,
+    "top": 44,
+    "right": 314,
+    "bottom": 233
+  },
+  "23/Persian_264_1.jpg": {
+    "original": "Persian_264.jpg",
+    "output": "23/Persian_264_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 294,
+        "top": 25,
+        "right": 345,
+        "bottom": 80,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "23/Persian_2_2.jpg": {
+    "original": "Persian_2.jpg",
+    "output": "23/Persian_2_2.jpg",
+    "type": "crop",
+    "left": 78,
+    "top": 44,
+    "right": 282,
+    "bottom": 189
+  },
+  "31/shiba_inu_35_0.jpg": {
+    "original": "shiba_inu_35.jpg",
+    "output": "31/shiba_inu_35_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 190,
+        "top": 252,
+        "right": 236,
+        "bottom": 308,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "31/shiba_inu_45_0.jpg": {
+    "original": "shiba_inu_45.jpg",
+    "output": "31/shiba_inu_45_0.jpg",
+    "type": "crop",
+    "left": 184,
+    "top": 61,
+    "right": 475,
+    "bottom": 255
+  },
+  "32/Siamese_84_1.jpg": {
+    "original": "Siamese_84.jpg",
+    "output": "32/Siamese_84_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 236,
+        "top": 46,
+        "right": 329,
+        "bottom": 175,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 102,
+        "top": 11,
+        "right": 172,
+        "bottom": 136,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "32/Siamese_9_2.jpg": {
+    "original": "Siamese_9.jpg",
+    "output": "32/Siamese_9_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 250,
+        "top": 329,
+        "right": 305,
+        "bottom": 374,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 155,
+        "top": 338,
+        "right": 182,
+        "bottom": 380,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "9/British_Shorthair_59_0.jpg": {
+    "original": "British_Shorthair_59.jpg",
+    "output": "9/British_Shorthair_59_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 341,
+        "top": 29,
+        "right": 422,
+        "bottom": 124,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 142,
+        "top": 79,
+        "right": 231,
+        "bottom": 169,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "9/British_Shorthair_74_1.jpg": {
+    "original": "British_Shorthair_74.jpg",
+    "output": "9/British_Shorthair_74_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 0,
+        "top": 228,
+        "right": 166,
+        "bottom": 381,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "29/samoyed_34_0.jpg": {
+    "original": "samoyed_34.jpg",
+    "output": "29/samoyed_34_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 238,
+        "top": 172,
+        "right": 292,
+        "bottom": 198,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 237,
+        "top": 137,
+        "right": 300,
+        "bottom": 198,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "29/samoyed_35_2.jpg": {
+    "original": "samoyed_35.jpg",
+    "output": "29/samoyed_35_2.jpg",
+    "type": "crop",
+    "left": 228,
+    "top": 77,
+    "right": 330,
+    "bottom": 231
+  },
+  "3/basset_hound_38_2.jpg": {
+    "original": "basset_hound_38.jpg",
+    "output": "3/basset_hound_38_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 118,
+        "top": 128,
+        "right": 197,
+        "bottom": 239,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 85,
+        "top": 55,
+        "right": 198,
+        "bottom": 239,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "3/basset_hound_75_2.jpg": {
+    "original": "basset_hound_75.jpg",
+    "output": "3/basset_hound_75_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 328,
+        "top": 147,
+        "right": 347,
+        "bottom": 161,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 364,
+        "top": 146,
+        "right": 377,
+        "bottom": 161,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "16/havanese_199_2.jpg": {
+    "original": "havanese_199.jpg",
+    "output": "16/havanese_199_2.jpg",
+    "type": "crop",
+    "left": 181,
+    "top": 83,
+    "right": 437,
+    "bottom": 275
+  },
+  "16/havanese_37_0.jpg": {
+    "original": "havanese_37.jpg",
+    "output": "16/havanese_37_0.jpg",
+    "type": "crop",
+    "left": 52,
+    "top": 14,
+    "right": 233,
+    "bottom": 285
+  },
+  "5/Bengal_31_0.jpg": {
+    "original": "Bengal_31.jpg",
+    "output": "5/Bengal_31_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 216,
+        "top": 70,
+        "right": 344,
+        "bottom": 182,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "5/Bengal_97_2.jpg": {
+    "original": "Bengal_97.jpg",
+    "output": "5/Bengal_97_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 50,
+        "top": 165,
+        "right": 139,
+        "bottom": 368,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "8/boxer_28_0.jpg": {
+    "original": "boxer_28.jpg",
+    "output": "8/boxer_28_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 2,
+        "top": 359,
+        "right": 72,
+        "bottom": 499,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 110,
+        "top": 410,
+        "right": 169,
+        "bottom": 499,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "8/boxer_81_2.jpg": {
+    "original": "boxer_81.jpg",
+    "output": "8/boxer_81_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 223,
+        "top": 66,
+        "right": 292,
+        "bottom": 117,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "13/english_setter_39_0.jpg": {
+    "original": "english_setter_39.jpg",
+    "output": "13/english_setter_39_0.jpg",
+    "type": "crop",
+    "left": 74,
+    "top": 207,
+    "right": 291,
+    "bottom": 370
+  },
+  "13/english_setter_7_2.jpg": {
+    "original": "english_setter_7.jpg",
+    "output": "13/english_setter_7_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 134,
+        "top": 159,
+        "right": 178,
+        "bottom": 180,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 37,
+        "top": 149,
+        "right": 74,
+        "bottom": 175,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "15/great_pyrenees_198_1.jpg": {
+    "original": "great_pyrenees_198.jpg",
+    "output": "15/great_pyrenees_198_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 291,
+        "top": 197,
+        "right": 371,
+        "bottom": 274,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "15/great_pyrenees_32_1.jpg": {
+    "original": "great_pyrenees_32.jpg",
+    "output": "15/great_pyrenees_32_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 89,
+        "top": 87,
+        "right": 217,
+        "bottom": 241,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "0/Abyssinian_58_1.jpg": {
+    "original": "Abyssinian_58.jpg",
+    "output": "0/Abyssinian_58_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 26,
+        "top": 70,
+        "right": 142,
+        "bottom": 197,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 147,
+        "top": 87,
+        "right": 264,
+        "bottom": 174,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "0/Abyssinian_77_2.jpg": {
+    "original": "Abyssinian_77.jpg",
+    "output": "0/Abyssinian_77_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 145,
+        "top": 147,
+        "right": 175,
+        "bottom": 176,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 217,
+        "top": 147,
+        "right": 251,
+        "bottom": 176,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "24/pomeranian_23_0.jpg": {
+    "original": "pomeranian_23.jpg",
+    "output": "24/pomeranian_23_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 250,
+        "top": 118,
+        "right": 336,
+        "bottom": 209,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "24/pomeranian_9_0.jpg": {
+    "original": "pomeranian_9.jpg",
+    "output": "24/pomeranian_9_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 240,
+        "top": 153,
+        "right": 260,
+        "bottom": 170,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 240,
+        "top": 148,
+        "right": 261,
+        "bottom": 170,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "22/newfoundland_44_0.jpg": {
+    "original": "newfoundland_44.jpg",
+    "output": "22/newfoundland_44_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 218,
+        "top": 150,
+        "right": 300,
+        "bottom": 256,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "22/newfoundland_8_1.jpg": {
+    "original": "newfoundland_8.jpg",
+    "output": "22/newfoundland_8_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 282,
+        "top": 210,
+        "right": 371,
+        "bottom": 331,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 354,
+        "top": 212,
+        "right": 435,
+        "bottom": 311,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "17/japanese_chin_6_2.jpg": {
+    "original": "japanese_chin_6.jpg",
+    "output": "17/japanese_chin_6_2.jpg",
+    "type": "crop",
+    "left": 157,
+    "top": 136,
+    "right": 448,
+    "bottom": 354
+  },
+  "17/japanese_chin_87_0.jpg": {
+    "original": "japanese_chin_87.jpg",
+    "output": "17/japanese_chin_87_0.jpg",
+    "type": "crop",
+    "left": 111,
+    "top": 230,
+    "right": 300,
+    "bottom": 371
+  },
+  "28/saint_bernard_47_1.jpg": {
+    "original": "saint_bernard_47.jpg",
+    "output": "28/saint_bernard_47_1.jpg",
+    "type": "crop",
+    "left": 39,
+    "top": 172,
+    "right": 202,
+    "bottom": 423
+  },
+  "28/saint_bernard_73_2.jpg": {
+    "original": "saint_bernard_73.jpg",
+    "output": "28/saint_bernard_73_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 350,
+        "top": 21,
+        "right": 424,
+        "bottom": 133,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "1/american_bulldog_221_1.jpg": {
+    "original": "american_bulldog_221.jpg",
+    "output": "1/american_bulldog_221_1.jpg",
+    "type": "crop",
+    "left": 118,
+    "top": 27,
+    "right": 330,
+    "bottom": 161
+  },
+  "1/american_bulldog_65_0.jpg": {
+    "original": "american_bulldog_65.jpg",
+    "output": "1/american_bulldog_65_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 276,
+        "top": 136,
+        "right": 321,
+        "bottom": 184,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "21/miniature_pinscher_38_1.jpg": {
+    "original": "miniature_pinscher_38.jpg",
+    "output": "21/miniature_pinscher_38_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 226,
+        "top": 58,
+        "right": 322,
+        "bottom": 165,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "21/miniature_pinscher_67_0.jpg": {
+    "original": "miniature_pinscher_67.jpg",
+    "output": "21/miniature_pinscher_67_0.jpg",
+    "type": "crop",
+    "left": 173,
+    "top": 324,
+    "right": 282,
+    "bottom": 487
+  },
+  "4/beagle_59_0.jpg": {
+    "original": "beagle_59.jpg",
+    "output": "4/beagle_59_0.jpg",
+    "type": "crop",
+    "left": 199,
+    "top": 197,
+    "right": 327,
+    "bottom": 389
+  },
+  "4/beagle_83_1.jpg": {
+    "original": "beagle_83.jpg",
+    "output": "4/beagle_83_1.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 143,
+        "top": 80,
+        "right": 244,
+        "bottom": 282,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 143,
+        "top": 166,
+        "right": 243,
+        "bottom": 282,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "11/Egyptian_Mau_19_0.jpg": {
+    "original": "Egyptian_Mau_19.jpg",
+    "output": "11/Egyptian_Mau_19_0.jpg",
+    "type": "crop",
+    "left": 124,
+    "top": 5,
+    "right": 254,
+    "bottom": 195
+  },
+  "11/Egyptian_Mau_221_0.jpg": {
+    "original": "Egyptian_Mau_221.jpg",
+    "output": "11/Egyptian_Mau_221_0.jpg",
+    "type": "crop",
+    "left": 229,
+    "top": 152,
+    "right": 496,
+    "bottom": 329
+  },
+  "10/chihuahua_75_1.jpg": {
+    "original": "chihuahua_75.jpg",
+    "output": "10/chihuahua_75_1.jpg",
+    "type": "crop",
+    "left": 68,
+    "top": 137,
+    "right": 303,
+    "bottom": 313
+  },
+  "10/chihuahua_85_1.jpg": {
+    "original": "chihuahua_85.jpg",
+    "output": "10/chihuahua_85_1.jpg",
+    "type": "crop",
+    "left": 96,
+    "top": 163,
+    "right": 288,
+    "bottom": 452
+  },
+  "35/wheaten_terrier_42_2.jpg": {
+    "original": "wheaten_terrier_42.jpg",
+    "output": "35/wheaten_terrier_42_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 284,
+        "top": 105,
+        "right": 311,
+        "bottom": 156,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 213,
+        "top": 103,
+        "right": 241,
+        "bottom": 149,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 213,
+        "top": 103,
+        "right": 240,
+        "bottom": 132,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 213,
+        "top": 103,
+        "right": 246,
+        "bottom": 149,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "35/wheaten_terrier_53_2.jpg": {
+    "original": "wheaten_terrier_53.jpg",
+    "output": "35/wheaten_terrier_53_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 267,
+        "top": 108,
+        "right": 299,
+        "bottom": 133,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 163,
+        "top": 113,
+        "right": 216,
+        "bottom": 140,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "33/Sphynx_54_1.jpg": {
+    "original": "Sphynx_54.jpg",
+    "output": "33/Sphynx_54_1.jpg",
+    "type": "crop",
+    "left": 73,
+    "top": 6,
+    "right": 360,
+    "bottom": 221
+  },
+  "33/Sphynx_9_0.jpg": {
+    "original": "Sphynx_9.jpg",
+    "output": "33/Sphynx_9_0.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 134,
+        "top": 146,
+        "right": 269,
+        "bottom": 249,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "20/Maine_Coon_54_0.jpg": {
+    "original": "Maine_Coon_54.jpg",
+    "output": "20/Maine_Coon_54_0.jpg",
+    "type": "crop",
+    "left": 131,
+    "top": 126,
+    "right": 245,
+    "bottom": 298
+  },
+  "20/Maine_Coon_92_1.jpg": {
+    "original": "Maine_Coon_92.jpg",
+    "output": "20/Maine_Coon_92_1.jpg",
+    "type": "crop",
+    "left": 59,
+    "top": 23,
+    "right": 253,
+    "bottom": 152
+  },
+  "14/german_shorthaired_195_2.jpg": {
+    "original": "german_shorthaired_195.jpg",
+    "output": "14/german_shorthaired_195_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 246,
+        "top": 33,
+        "right": 322,
+        "bottom": 88,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 246,
+        "top": 33,
+        "right": 369,
+        "bottom": 117,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 291,
+        "top": 63,
+        "right": 369,
+        "bottom": 117,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "14/german_shorthaired_69_2.jpg": {
+    "original": "german_shorthaired_69.jpg",
+    "output": "14/german_shorthaired_69_2.jpg",
+    "type": "crop",
+    "left": 104,
+    "top": 293,
+    "right": 239,
+    "bottom": 496
+  },
+  "7/Bombay_29_1.jpg": {
+    "original": "Bombay_29.jpg",
+    "output": "7/Bombay_29_1.jpg",
+    "type": "crop",
+    "left": 727,
+    "top": 784,
+    "right": 1244,
+    "bottom": 1172
+  },
+  "7/Bombay_79_2.jpg": {
+    "original": "Bombay_79.jpg",
+    "output": "7/Bombay_79_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 347,
+        "top": 297,
+        "right": 424,
+        "bottom": 426,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 424,
+        "top": 287,
+        "right": 506,
+        "bottom": 445,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 115,
+        "top": 265,
+        "right": 216,
+        "bottom": 428,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "30/scottish_terrier_23_0.jpg": {
+    "original": "scottish_terrier_23.jpg",
+    "output": "30/scottish_terrier_23_0.jpg",
+    "type": "crop",
+    "left": 81,
+    "top": 118,
+    "right": 324,
+    "bottom": 279
+  },
+  "30/scottish_terrier_42_1.jpg": {
+    "original": "scottish_terrier_42.jpg",
+    "output": "30/scottish_terrier_42_1.jpg",
+    "type": "crop",
+    "left": 285,
+    "top": 150,
+    "right": 492,
+    "bottom": 305
+  },
+  "19/leonberger_91_0.jpg": {
+    "original": "leonberger_91.jpg",
+    "output": "19/leonberger_91_0.jpg",
+    "type": "crop",
+    "left": 63,
+    "top": 20,
+    "right": 228,
+    "bottom": 130
+  },
+  "19/leonberger_91_2.jpg": {
+    "original": "leonberger_91.jpg",
+    "output": "19/leonberger_91_2.jpg",
+    "type": "crop",
+    "left": 149,
+    "top": 57,
+    "right": 439,
+    "bottom": 250
+  },
+  "12/english_cocker_spaniel_46_2.jpg": {
+    "original": "english_cocker_spaniel_46.jpg",
+    "output": "12/english_cocker_spaniel_46_2.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 104,
+        "top": 259,
+        "right": 175,
+        "bottom": 390,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "12/english_cocker_spaniel_96_1.jpg": {
+    "original": "english_cocker_spaniel_96.jpg",
+    "output": "12/english_cocker_spaniel_96_1.jpg",
+    "type": "crop",
+    "left": 160,
+    "top": 56,
+    "right": 419,
+    "bottom": 274
+  }
+}

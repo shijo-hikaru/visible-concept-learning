@@ -1,0 +1,3290 @@
+{
+  "2/Sooty_Albatross_0006_796390_40.jpg": {
+    "original": "test/003.Sooty_Albatross/Sooty_Albatross_0006_796390.jpg",
+    "output": "2/Sooty_Albatross_0006_796390_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 236,
+        "top": 124,
+        "right": 286,
+        "bottom": 174,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 191,
+        "top": 144,
+        "right": 241,
+        "bottom": 194,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 213,
+        "top": 128,
+        "right": 263,
+        "bottom": 178,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 202,
+        "top": 131,
+        "right": 252,
+        "bottom": 181,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 218,
+        "top": 127,
+        "right": 268,
+        "bottom": 177,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "2/Sooty_Albatross_0030_1122_40.jpg": {
+    "original": "test/003.Sooty_Albatross/Sooty_Albatross_0030_1122.jpg",
+    "output": "2/Sooty_Albatross_0030_1122_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 72,
+        "top": 164,
+        "right": 122,
+        "bottom": 214,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 128,
+        "top": 130,
+        "right": 178,
+        "bottom": 180,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 98,
+        "top": 141,
+        "right": 148,
+        "bottom": 191,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 112,
+        "top": 143,
+        "right": 162,
+        "bottom": 193,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 120,
+        "top": 174,
+        "right": 170,
+        "bottom": 224,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "42/Yellow_Bellied_Flycatcher_0050_42598_40.jpg": {
+    "original": "test/043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0050_42598.jpg",
+    "output": "42/Yellow_Bellied_Flycatcher_0050_42598_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 274,
+        "top": 59,
+        "right": 324,
+        "bottom": 109,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 260,
+        "top": 36,
+        "right": 310,
+        "bottom": 86,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 250,
+        "top": 98,
+        "right": 300,
+        "bottom": 148,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "26/Shiny_Cowbird_0005_796873_40.jpg": {
+    "original": "test/027.Shiny_Cowbird/Shiny_Cowbird_0005_796873.jpg",
+    "output": "26/Shiny_Cowbird_0005_796873_40.jpg",
+    "type": "crop",
+    "left": 176,
+    "top": 0,
+    "right": 412,
+    "bottom": 158
+  },
+  "26/Shiny_Cowbird_0081_796833_40.jpg": {
+    "original": "test/027.Shiny_Cowbird/Shiny_Cowbird_0081_796833.jpg",
+    "output": "26/Shiny_Cowbird_0081_796833_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 324,
+        "top": 74,
+        "right": 374,
+        "bottom": 124,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 287,
+        "top": 53,
+        "right": 337,
+        "bottom": 103,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 305,
+        "top": 59,
+        "right": 355,
+        "bottom": 109,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 297,
+        "top": 64,
+        "right": 347,
+        "bottom": 114,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 289,
+        "top": 86,
+        "right": 339,
+        "bottom": 136,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "34/Purple_Finch_0030_27255_40.jpg": {
+    "original": "test/035.Purple_Finch/Purple_Finch_0030_27255.jpg",
+    "output": "34/Purple_Finch_0030_27255_40.jpg",
+    "type": "crop",
+    "left": 126,
+    "top": 242,
+    "right": 292,
+    "bottom": 410
+  },
+  "34/Purple_Finch_0067_27431_40.jpg": {
+    "original": "test/035.Purple_Finch/Purple_Finch_0067_27431.jpg",
+    "output": "34/Purple_Finch_0067_27431_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 254,
+        "top": 42,
+        "right": 304,
+        "bottom": 92,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 243,
+        "top": 77,
+        "right": 293,
+        "bottom": 127,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 238,
+        "top": 31,
+        "right": 288,
+        "bottom": 81,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 247,
+        "top": 33,
+        "right": 297,
+        "bottom": 83,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 222,
+        "top": 47,
+        "right": 272,
+        "bottom": 97,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 237,
+        "top": 38,
+        "right": 287,
+        "bottom": 88,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 202,
+        "top": 65,
+        "right": 252,
+        "bottom": 115,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 249,
+        "top": 53,
+        "right": 299,
+        "bottom": 103,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "18/Gray_Catbird_0024_20739_41.jpg": {
+    "original": "test/019.Gray_Catbird/Gray_Catbird_0024_20739.jpg",
+    "output": "18/Gray_Catbird_0024_20739_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 222,
+        "top": 167,
+        "right": 272,
+        "bottom": 217,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 192,
+        "top": 140,
+        "right": 242,
+        "bottom": 190,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 206,
+        "top": 195,
+        "right": 256,
+        "bottom": 245,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "18/Gray_Catbird_0032_21551_41.jpg": {
+    "original": "test/019.Gray_Catbird/Gray_Catbird_0032_21551.jpg",
+    "output": "18/Gray_Catbird_0032_21551_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 410,
+        "top": 85,
+        "right": 460,
+        "bottom": 135,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 347,
+        "top": 74,
+        "right": 397,
+        "bottom": 124,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 379,
+        "top": 75,
+        "right": 429,
+        "bottom": 125,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 368,
+        "top": 85,
+        "right": 418,
+        "bottom": 135,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 372,
+        "top": 108,
+        "right": 422,
+        "bottom": 158,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "25/Bronzed_Cowbird_0003_796246_40.jpg": {
+    "original": "test/026.Bronzed_Cowbird/Bronzed_Cowbird_0003_796246.jpg",
+    "output": "25/Bronzed_Cowbird_0003_796246_40.jpg",
+    "type": "crop",
+    "left": 168,
+    "top": 265,
+    "right": 329,
+    "bottom": 469
+  },
+  "41/Vermilion_Flycatcher_0038_42262_41.jpg": {
+    "original": "test/042.Vermilion_Flycatcher/Vermilion_Flycatcher_0038_42262.jpg",
+    "output": "41/Vermilion_Flycatcher_0038_42262_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 297,
+        "top": 266,
+        "right": 347,
+        "bottom": 316,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 291,
+        "top": 294,
+        "right": 341,
+        "bottom": 344,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 263,
+        "top": 296,
+        "right": 313,
+        "bottom": 346,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 256,
+        "top": 250,
+        "right": 306,
+        "bottom": 300,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "41/Vermilion_Flycatcher_0073_42573_41.jpg": {
+    "original": "test/042.Vermilion_Flycatcher/Vermilion_Flycatcher_0073_42573.jpg",
+    "output": "41/Vermilion_Flycatcher_0073_42573_41.jpg",
+    "type": "crop",
+    "left": 189,
+    "top": 56,
+    "right": 357,
+    "bottom": 280
+  },
+  "48/Boat_Tailed_Grackle_0101_33611_40.jpg": {
+    "original": "test/049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0101_33611.jpg",
+    "output": "48/Boat_Tailed_Grackle_0101_33611_40.jpg",
+    "type": "crop",
+    "left": 149,
+    "top": 110,
+    "right": 303,
+    "bottom": 222
+  },
+  "48/Boat_Tailed_Grackle_0116_33808_40.jpg": {
+    "original": "test/049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0116_33808.jpg",
+    "output": "48/Boat_Tailed_Grackle_0116_33808_40.jpg",
+    "type": "crop",
+    "left": 19,
+    "top": 0,
+    "right": 177,
+    "bottom": 241
+  },
+  "36/Acadian_Flycatcher_0022_29145_40.jpg": {
+    "original": "test/037.Acadian_Flycatcher/Acadian_Flycatcher_0022_29145.jpg",
+    "output": "36/Acadian_Flycatcher_0022_29145_40.jpg",
+    "type": "crop",
+    "left": 169,
+    "top": 61,
+    "right": 391,
+    "bottom": 228
+  },
+  "36/Acadian_Flycatcher_0036_795577_40.jpg": {
+    "original": "test/037.Acadian_Flycatcher/Acadian_Flycatcher_0036_795577.jpg",
+    "output": "36/Acadian_Flycatcher_0036_795577_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 274,
+        "top": 58,
+        "right": 324,
+        "bottom": 108,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 227,
+        "top": 20,
+        "right": 277,
+        "bottom": 70,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 259,
+        "top": 77,
+        "right": 309,
+        "bottom": 127,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 252,
+        "top": 40,
+        "right": 302,
+        "bottom": 90,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "27/Brown_Creeper_0005_24659_40.jpg": {
+    "original": "test/028.Brown_Creeper/Brown_Creeper_0005_24659.jpg",
+    "output": "27/Brown_Creeper_0005_24659_40.jpg",
+    "type": "crop",
+    "left": 206,
+    "top": 47,
+    "right": 414,
+    "bottom": 177
+  },
+  "27/Brown_Creeper_0035_24941_40.jpg": {
+    "original": "test/028.Brown_Creeper/Brown_Creeper_0035_24941.jpg",
+    "output": "27/Brown_Creeper_0035_24941_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 169,
+        "top": 163,
+        "right": 219,
+        "bottom": 213,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 180,
+        "top": 201,
+        "right": 230,
+        "bottom": 251,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 204,
+        "top": 166,
+        "right": 254,
+        "bottom": 216,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "6/Parakeet_Auklet_0067_795964_40.jpg": {
+    "original": "test/007.Parakeet_Auklet/Parakeet_Auklet_0067_795964.jpg",
+    "output": "6/Parakeet_Auklet_0067_795964_40.jpg",
+    "type": "crop",
+    "left": 100,
+    "top": 41,
+    "right": 215,
+    "bottom": 214
+  },
+  "23/Red_Faced_Cormorant_0013_796278_41.jpg": {
+    "original": "test/024.Red_faced_Cormorant/Red_Faced_Cormorant_0013_796278.jpg",
+    "output": "23/Red_Faced_Cormorant_0013_796278_41.jpg",
+    "type": "crop",
+    "left": 152,
+    "top": 1,
+    "right": 395,
+    "bottom": 162
+  },
+  "31/Mangrove_Cuckoo_0047_794604_40.jpg": {
+    "original": "test/032.Mangrove_Cuckoo/Mangrove_Cuckoo_0047_794604.jpg",
+    "output": "31/Mangrove_Cuckoo_0047_794604_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 92,
+        "top": 95,
+        "right": 142,
+        "bottom": 145,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 110,
+        "top": 83,
+        "right": 160,
+        "bottom": 133,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 85,
+        "top": 124,
+        "right": 135,
+        "bottom": 174,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 118,
+        "top": 53,
+        "right": 168,
+        "bottom": 103,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 70,
+        "top": 61,
+        "right": 120,
+        "bottom": 111,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 136,
+        "top": 74,
+        "right": 186,
+        "bottom": 124,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "37/Great_Crested_Flycatcher_0010_29396_41.jpg": {
+    "original": "test/038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0010_29396.jpg",
+    "output": "37/Great_Crested_Flycatcher_0010_29396_41.jpg",
+    "type": "crop",
+    "left": 109,
+    "top": 138,
+    "right": 221,
+    "bottom": 304
+  },
+  "37/Great_Crested_Flycatcher_0120_29472_41.jpg": {
+    "original": "test/038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0120_29472.jpg",
+    "output": "37/Great_Crested_Flycatcher_0120_29472_41.jpg",
+    "type": "crop",
+    "left": 173,
+    "top": 132,
+    "right": 324,
+    "bottom": 276
+  },
+  "32/Yellow_Billed_Cuckoo_0078_26888_40.jpg": {
+    "original": "test/033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0078_26888.jpg",
+    "output": "32/Yellow_Billed_Cuckoo_0078_26888_40.jpg",
+    "type": "crop",
+    "left": 179,
+    "top": 19,
+    "right": 316,
+    "bottom": 190
+  },
+  "32/Yellow_Billed_Cuckoo_0090_26714_41.jpg": {
+    "original": "test/033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0090_26714.jpg",
+    "output": "32/Yellow_Billed_Cuckoo_0090_26714_41.jpg",
+    "type": "crop",
+    "left": 150,
+    "top": 75,
+    "right": 399,
+    "bottom": 242
+  },
+  "49/Eared_Grebe_0054_34289_41.jpg": {
+    "original": "test/050.Eared_Grebe/Eared_Grebe_0054_34289.jpg",
+    "output": "49/Eared_Grebe_0054_34289_41.jpg",
+    "type": "crop",
+    "left": 239,
+    "top": 13,
+    "right": 419,
+    "bottom": 133
+  },
+  "49/Eared_Grebe_0080_34223_41.jpg": {
+    "original": "test/050.Eared_Grebe/Eared_Grebe_0080_34223.jpg",
+    "output": "49/Eared_Grebe_0080_34223_41.jpg",
+    "type": "crop",
+    "left": 187,
+    "top": 76,
+    "right": 372,
+    "bottom": 199
+  },
+  "9/Red_Winged_Blackbird_0062_4233_40.jpg": {
+    "original": "test/010.Red_winged_Blackbird/Red_Winged_Blackbird_0062_4233.jpg",
+    "output": "9/Red_Winged_Blackbird_0062_4233_40.jpg",
+    "type": "crop",
+    "left": 109,
+    "top": 36,
+    "right": 259,
+    "bottom": 246
+  },
+  "29/Fish_Crow_0067_26124_40.jpg": {
+    "original": "test/030.Fish_Crow/Fish_Crow_0067_26124.jpg",
+    "output": "29/Fish_Crow_0067_26124_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 260,
+        "top": 248,
+        "right": 310,
+        "bottom": 298,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 282,
+        "top": 237,
+        "right": 332,
+        "bottom": 287,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 232,
+        "top": 273,
+        "right": 282,
+        "bottom": 323,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "29/Fish_Crow_0082_26012_40.jpg": {
+    "original": "test/030.Fish_Crow/Fish_Crow_0082_26012.jpg",
+    "output": "29/Fish_Crow_0082_26012_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 232,
+        "top": 97,
+        "right": 282,
+        "bottom": 147,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 201,
+        "top": 87,
+        "right": 251,
+        "bottom": 137,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "3/Groove_Billed_Ani_0035_1591_40.jpg": {
+    "original": "test/004.Groove_billed_Ani/Groove_Billed_Ani_0035_1591.jpg",
+    "output": "3/Groove_Billed_Ani_0035_1591_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 109,
+        "top": 27,
+        "right": 159,
+        "bottom": 77,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 76,
+        "top": 27,
+        "right": 126,
+        "bottom": 77,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 89,
+        "top": 30,
+        "right": 139,
+        "bottom": 80,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 136,
+        "top": 42,
+        "right": 186,
+        "bottom": 92,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 82,
+        "top": 59,
+        "right": 132,
+        "bottom": 109,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "16/Cardinal_0095_18108_40.jpg": {
+    "original": "test/017.Cardinal/Cardinal_0095_18108.jpg",
+    "output": "16/Cardinal_0095_18108_40.jpg",
+    "type": "crop",
+    "left": 258,
+    "top": 265,
+    "right": 381,
+    "bottom": 426
+  },
+  "5/Least_Auklet_0005_795119_40.jpg": {
+    "original": "test/006.Least_Auklet/Least_Auklet_0005_795119.jpg",
+    "output": "5/Least_Auklet_0005_795119_40.jpg",
+    "type": "crop",
+    "left": 94,
+    "top": 144,
+    "right": 224,
+    "bottom": 339
+  },
+  "8/Brewer_Blackbird_0101_2630_40.jpg": {
+    "original": "test/009.Brewer_Blackbird/Brewer_Blackbird_0101_2630.jpg",
+    "output": "8/Brewer_Blackbird_0101_2630_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 164,
+        "top": 130,
+        "right": 214,
+        "bottom": 180,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 134,
+        "top": 127,
+        "right": 184,
+        "bottom": 177,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 120,
+        "top": 138,
+        "right": 170,
+        "bottom": 188,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "46/American_Goldfinch_0061_32281_40.jpg": {
+    "original": "test/047.American_Goldfinch/American_Goldfinch_0061_32281.jpg",
+    "output": "46/American_Goldfinch_0061_32281_40.jpg",
+    "type": "crop",
+    "left": 261,
+    "top": 185,
+    "right": 433,
+    "bottom": 300
+  },
+  "13/Indigo_Bunting_0063_11820_40.jpg": {
+    "original": "test/014.Indigo_Bunting/Indigo_Bunting_0063_11820.jpg",
+    "output": "13/Indigo_Bunting_0063_11820_40.jpg",
+    "type": "crop",
+    "left": 156,
+    "top": 16,
+    "right": 382,
+    "bottom": 238
+  },
+  "44/Northern_Fulmar_0036_43718_41.jpg": {
+    "original": "test/045.Northern_Fulmar/Northern_Fulmar_0036_43718.jpg",
+    "output": "44/Northern_Fulmar_0036_43718_41.jpg",
+    "type": "crop",
+    "left": 65,
+    "top": 5,
+    "right": 237,
+    "bottom": 119
+  },
+  "44/Northern_Fulmar_0063_43631_41.jpg": {
+    "original": "test/045.Northern_Fulmar/Northern_Fulmar_0063_43631.jpg",
+    "output": "44/Northern_Fulmar_0063_43631_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 349,
+        "top": 97,
+        "right": 399,
+        "bottom": 147,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 332,
+        "top": 55,
+        "right": 382,
+        "bottom": 105,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 341,
+        "top": 72,
+        "right": 391,
+        "bottom": 122,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 305,
+        "top": 45,
+        "right": 355,
+        "bottom": 95,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 332,
+        "top": 72,
+        "right": 382,
+        "bottom": 122,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 324,
+        "top": 95,
+        "right": 374,
+        "bottom": 145,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "15/Painted_Bunting_0004_16641_41.jpg": {
+    "original": "test/016.Painted_Bunting/Painted_Bunting_0004_16641.jpg",
+    "output": "15/Painted_Bunting_0004_16641_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 76,
+        "top": 67,
+        "right": 126,
+        "bottom": 117,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 117,
+        "top": 36,
+        "right": 167,
+        "bottom": 86,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 96,
+        "top": 46,
+        "right": 146,
+        "bottom": 96,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 107,
+        "top": 60,
+        "right": 157,
+        "bottom": 110,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 101,
+        "top": 93,
+        "right": 151,
+        "bottom": 143,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "0/Black_Footed_Albatross_0085_92_40.jpg": {
+    "original": "test/001.Black_footed_Albatross/Black_Footed_Albatross_0085_92.jpg",
+    "output": "0/Black_Footed_Albatross_0085_92_40.jpg",
+    "type": "crop",
+    "left": 126,
+    "top": 78,
+    "right": 361,
+    "bottom": 299
+  },
+  "24/Pelagic_Cormorant_0002_23680_40.jpg": {
+    "original": "test/025.Pelagic_Cormorant/Pelagic_Cormorant_0002_23680.jpg",
+    "output": "24/Pelagic_Cormorant_0002_23680_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 157,
+        "top": 50,
+        "right": 207,
+        "bottom": 100,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 165,
+        "top": 91,
+        "right": 215,
+        "bottom": 141,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 196,
+        "top": 32,
+        "right": 246,
+        "bottom": 82,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 174,
+        "top": 36,
+        "right": 224,
+        "bottom": 86,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 182,
+        "top": 42,
+        "right": 232,
+        "bottom": 92,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 221,
+        "top": 67,
+        "right": 271,
+        "bottom": 117,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 184,
+        "top": 62,
+        "right": 234,
+        "bottom": 112,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "22/Brandt_Cormorant_0052_23356_40.jpg": {
+    "original": "test/023.Brandt_Cormorant/Brandt_Cormorant_0052_23356.jpg",
+    "output": "22/Brandt_Cormorant_0052_23356_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 249,
+        "top": 241,
+        "right": 299,
+        "bottom": 291,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 289,
+        "top": 245,
+        "right": 339,
+        "bottom": 295,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 317,
+        "top": 236,
+        "right": 367,
+        "bottom": 286,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "17/Spotted_Catbird_0040_796820_41.jpg": {
+    "original": "test/018.Spotted_Catbird/Spotted_Catbird_0040_796820.jpg",
+    "output": "17/Spotted_Catbird_0040_796820_41.jpg",
+    "type": "crop",
+    "left": 76,
+    "top": 268,
+    "right": 220,
+    "bottom": 484
+  },
+  "28/American_Crow_0030_25092_40.jpg": {
+    "original": "test/029.American_Crow/American_Crow_0030_25092.jpg",
+    "output": "28/American_Crow_0030_25092_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 198,
+        "top": 141,
+        "right": 248,
+        "bottom": 191,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 182,
+        "top": 111,
+        "right": 232,
+        "bottom": 161,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 178,
+        "top": 182,
+        "right": 228,
+        "bottom": 232,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 165,
+        "top": 159,
+        "right": 215,
+        "bottom": 209,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 166,
+        "top": 103,
+        "right": 216,
+        "bottom": 153,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 173,
+        "top": 104,
+        "right": 223,
+        "bottom": 154,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 194,
+        "top": 165,
+        "right": 244,
+        "bottom": 215,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 155,
+        "top": 121,
+        "right": 205,
+        "bottom": 171,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 175,
+        "top": 122,
+        "right": 225,
+        "bottom": 172,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "28/American_Crow_0105_25283_41.jpg": {
+    "original": "test/029.American_Crow/American_Crow_0105_25283.jpg",
+    "output": "28/American_Crow_0105_25283_41.jpg",
+    "type": "crop",
+    "left": 99,
+    "top": 0,
+    "right": 338,
+    "bottom": 223
+  },
+  "1/Laysan_Albatross_0082_524_41.jpg": {
+    "original": "test/002.Laysan_Albatross/Laysan_Albatross_0082_524.jpg",
+    "output": "1/Laysan_Albatross_0082_524_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 139,
+        "top": 55,
+        "right": 189,
+        "bottom": 105,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 104,
+        "top": 70,
+        "right": 154,
+        "bottom": 120,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 124,
+        "top": 77,
+        "right": 174,
+        "bottom": 127,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 120,
+        "top": 114,
+        "right": 170,
+        "bottom": 164,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "21/Chuck_Will_Widow_0039_797000_41.jpg": {
+    "original": "test/022.Chuck_will_Widow/Chuck_Will_Widow_0039_797000.jpg",
+    "output": "21/Chuck_Will_Widow_0039_797000_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 131,
+        "top": 119,
+        "right": 181,
+        "bottom": 169,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 169,
+        "top": 58,
+        "right": 219,
+        "bottom": 108,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 203,
+        "top": 68,
+        "right": 253,
+        "bottom": 118,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 161,
+        "top": 89,
+        "right": 211,
+        "bottom": 139,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "4/Crested_Auklet_0070_785261_40.jpg": {
+    "original": "test/005.Crested_Auklet/Crested_Auklet_0070_785261.jpg",
+    "output": "4/Crested_Auklet_0070_785261_40.jpg",
+    "type": "crop",
+    "left": 69,
+    "top": 10,
+    "right": 236,
+    "bottom": 144
+  },
+  "10/Rusty_Blackbird_0003_6749_41.jpg": {
+    "original": "test/011.Rusty_Blackbird/Rusty_Blackbird_0003_6749.jpg",
+    "output": "10/Rusty_Blackbird_0003_6749_41.jpg",
+    "type": "crop",
+    "left": 65,
+    "top": 247,
+    "right": 231,
+    "bottom": 401
+  },
+  "10/Rusty_Blackbird_0080_6877_41.jpg": {
+    "original": "test/011.Rusty_Blackbird/Rusty_Blackbird_0080_6877.jpg",
+    "output": "10/Rusty_Blackbird_0080_6877_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 215,
+        "top": 36,
+        "right": 265,
+        "bottom": 86,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 203,
+        "top": 76,
+        "right": 253,
+        "bottom": 126,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 199,
+        "top": 30,
+        "right": 249,
+        "bottom": 80,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 208,
+        "top": 32,
+        "right": 258,
+        "bottom": 82,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 187,
+        "top": 47,
+        "right": 237,
+        "bottom": 97,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 198,
+        "top": 35,
+        "right": 248,
+        "bottom": 85,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 207,
+        "top": 49,
+        "right": 257,
+        "bottom": 99,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "35/Northern_Flicker_0084_28318_41.jpg": {
+    "original": "test/036.Northern_Flicker/Northern_Flicker_0084_28318.jpg",
+    "output": "35/Northern_Flicker_0084_28318_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 256,
+        "top": 209,
+        "right": 306,
+        "bottom": 259,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 225,
+        "top": 216,
+        "right": 275,
+        "bottom": 266,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "35/Northern_Flicker_0129_29022_41.jpg": {
+    "original": "test/036.Northern_Flicker/Northern_Flicker_0129_29022.jpg",
+    "output": "35/Northern_Flicker_0129_29022_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 135,
+        "top": 94,
+        "right": 185,
+        "bottom": 144,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 103,
+        "top": 98,
+        "right": 153,
+        "bottom": 148,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 112,
+        "top": 101,
+        "right": 162,
+        "bottom": 151,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 157,
+        "top": 125,
+        "right": 207,
+        "bottom": 175,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 115,
+        "top": 135,
+        "right": 165,
+        "bottom": 185,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "43/Frigatebird_0054_43019_41.jpg": {
+    "original": "test/044.Frigatebird/Frigatebird_0054_43019.jpg",
+    "output": "43/Frigatebird_0054_43019_41.jpg",
+    "type": "crop",
+    "left": 140,
+    "top": 168,
+    "right": 349,
+    "bottom": 373
+  },
+  "20/Eastern_Towhee_0024_22382_41.jpg": {
+    "original": "test/021.Eastern_Towhee/Eastern_Towhee_0024_22382.jpg",
+    "output": "20/Eastern_Towhee_0024_22382_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 207,
+        "top": 120,
+        "right": 257,
+        "bottom": 170,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 278,
+        "top": 136,
+        "right": 328,
+        "bottom": 186,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 233,
+        "top": 157,
+        "right": 283,
+        "bottom": 207,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 257,
+        "top": 115,
+        "right": 307,
+        "bottom": 165,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 272,
+        "top": 124,
+        "right": 322,
+        "bottom": 174,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 233,
+        "top": 118,
+        "right": 283,
+        "bottom": 168,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 258,
+        "top": 124,
+        "right": 308,
+        "bottom": 174,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 196,
+        "top": 140,
+        "right": 246,
+        "bottom": 190,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 258,
+        "top": 140,
+        "right": 308,
+        "bottom": 190,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "20/Eastern_Towhee_0085_22674_40.jpg": {
+    "original": "test/021.Eastern_Towhee/Eastern_Towhee_0085_22674.jpg",
+    "output": "20/Eastern_Towhee_0085_22674_40.jpg",
+    "type": "crop",
+    "left": 217,
+    "top": 114,
+    "right": 403,
+    "bottom": 246
+  },
+  "47/European_Goldfinch_0022_794674_41.jpg": {
+    "original": "test/048.European_Goldfinch/European_Goldfinch_0022_794674.jpg",
+    "output": "47/European_Goldfinch_0022_794674_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 204,
+        "top": 34,
+        "right": 254,
+        "bottom": 84,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 187,
+        "top": 61,
+        "right": 237,
+        "bottom": 111,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 226,
+        "top": 61,
+        "right": 276,
+        "bottom": 111,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "47/European_Goldfinch_0106_33298_40.jpg": {
+    "original": "test/048.European_Goldfinch/European_Goldfinch_0106_33298.jpg",
+    "output": "47/European_Goldfinch_0106_33298_40.jpg",
+    "type": "crop",
+    "left": 3,
+    "top": 2,
+    "right": 175,
+    "bottom": 229
+  },
+  "14/Lazuli_Bunting_0101_14873_40.jpg": {
+    "original": "test/015.Lazuli_Bunting/Lazuli_Bunting_0101_14873.jpg",
+    "output": "14/Lazuli_Bunting_0101_14873_40.jpg",
+    "type": "crop",
+    "left": 157,
+    "top": 149,
+    "right": 332,
+    "bottom": 289
+  },
+  "7/Rhinoceros_Auklet_0004_797541_41.jpg": {
+    "original": "test/008.Rhinoceros_Auklet/Rhinoceros_Auklet_0004_797541.jpg",
+    "output": "7/Rhinoceros_Auklet_0004_797541_41.jpg",
+    "type": "crop",
+    "left": 173,
+    "top": 37,
+    "right": 323,
+    "bottom": 142
+  },
+  "40/Scissor_Tailed_Flycatcher_0082_41852_40.jpg": {
+    "original": "test/041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0082_41852.jpg",
+    "output": "40/Scissor_Tailed_Flycatcher_0082_41852_40.jpg",
+    "type": "crop",
+    "left": 200,
+    "top": 32,
+    "right": 357,
+    "bottom": 137
+  },
+  "30/Black_Billed_Cuckoo_0089_795322_41.jpg": {
+    "original": "test/031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0089_795322.jpg",
+    "output": "30/Black_Billed_Cuckoo_0089_795322_41.jpg",
+    "type": "crop",
+    "left": 61,
+    "top": 76,
+    "right": 223,
+    "bottom": 284
+  },
+  "19/Yellow_Breasted_Chat_0066_21839_41.jpg": {
+    "original": "test/020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0066_21839.jpg",
+    "output": "19/Yellow_Breasted_Chat_0066_21839_41.jpg",
+    "type": "crop",
+    "left": 34,
+    "top": 139,
+    "right": 202,
+    "bottom": 274
+  },
+  "42/Yellow_Bellied_Flycatcher_0017_795490_41.jpg": {
+    "original": "test/043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0017_795490.jpg",
+    "output": "42/Yellow_Bellied_Flycatcher_0017_795490_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 342,
+        "top": 257,
+        "right": 392,
+        "bottom": 307,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "25/Bronzed_Cowbird_0021_24189_41.jpg": {
+    "original": "test/026.Bronzed_Cowbird/Bronzed_Cowbird_0021_24189.jpg",
+    "output": "25/Bronzed_Cowbird_0021_24189_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 222,
+        "top": 138,
+        "right": 272,
+        "bottom": 188,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 240,
+        "top": 164,
+        "right": 290,
+        "bottom": 214,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 252,
+        "top": 141,
+        "right": 302,
+        "bottom": 191,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 210,
+        "top": 193,
+        "right": 260,
+        "bottom": 243,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 248,
+        "top": 116,
+        "right": 298,
+        "bottom": 166,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 225,
+        "top": 198,
+        "right": 275,
+        "bottom": 248,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 227,
+        "top": 155,
+        "right": 277,
+        "bottom": 205,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 258,
+        "top": 118,
+        "right": 308,
+        "bottom": 168,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "6/Parakeet_Auklet_0075_795981_40.jpg": {
+    "original": "test/007.Parakeet_Auklet/Parakeet_Auklet_0075_795981.jpg",
+    "output": "6/Parakeet_Auklet_0075_795981_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 175,
+        "top": 110,
+        "right": 225,
+        "bottom": 160,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 200,
+        "top": 118,
+        "right": 250,
+        "bottom": 168,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 240,
+        "top": 154,
+        "right": 290,
+        "bottom": 204,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 198,
+        "top": 154,
+        "right": 248,
+        "bottom": 204,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "23/Red_Faced_Cormorant_0058_796315_40.jpg": {
+    "original": "test/024.Red_faced_Cormorant/Red_Faced_Cormorant_0058_796315.jpg",
+    "output": "23/Red_Faced_Cormorant_0058_796315_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 59,
+        "top": 126,
+        "right": 109,
+        "bottom": 176,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 78,
+        "top": 107,
+        "right": 128,
+        "bottom": 157,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 60,
+        "top": 116,
+        "right": 110,
+        "bottom": 166,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 69,
+        "top": 115,
+        "right": 119,
+        "bottom": 165,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 108,
+        "top": 124,
+        "right": 158,
+        "bottom": 174,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 88,
+        "top": 136,
+        "right": 138,
+        "bottom": 186,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "31/Mangrove_Cuckoo_0049_794631_40.jpg": {
+    "original": "test/032.Mangrove_Cuckoo/Mangrove_Cuckoo_0049_794631.jpg",
+    "output": "31/Mangrove_Cuckoo_0049_794631_40.jpg",
+    "type": "crop",
+    "left": 225,
+    "top": 158,
+    "right": 371,
+    "bottom": 352
+  },
+  "9/Red_Winged_Blackbird_0071_3988_41.jpg": {
+    "original": "test/010.Red_winged_Blackbird/Red_Winged_Blackbird_0071_3988.jpg",
+    "output": "9/Red_Winged_Blackbird_0071_3988_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 391,
+        "top": 92,
+        "right": 441,
+        "bottom": 142,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 417,
+        "top": 120,
+        "right": 467,
+        "bottom": 170,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 400,
+        "top": 111,
+        "right": 450,
+        "bottom": 161,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 366,
+        "top": 146,
+        "right": 416,
+        "bottom": 196,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "3/Groove_Billed_Ani_0108_1639_41.jpg": {
+    "original": "test/004.Groove_billed_Ani/Groove_Billed_Ani_0108_1639.jpg",
+    "output": "3/Groove_Billed_Ani_0108_1639_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 165,
+        "top": 86,
+        "right": 215,
+        "bottom": 136,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 203,
+        "top": 33,
+        "right": 253,
+        "bottom": 83,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 173,
+        "top": 63,
+        "right": 223,
+        "bottom": 113,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 211,
+        "top": 42,
+        "right": 261,
+        "bottom": 92,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 219,
+        "top": 67,
+        "right": 269,
+        "bottom": 117,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "16/Cardinal_0040_17477_40.jpg": {
+    "original": "test/017.Cardinal/Cardinal_0040_17477.jpg",
+    "output": "16/Cardinal_0040_17477_40.jpg",
+    "type": "crop",
+    "left": 209,
+    "top": 144,
+    "right": 404,
+    "bottom": 276
+  },
+  "5/Least_Auklet_0041_795107_40.jpg": {
+    "original": "test/006.Least_Auklet/Least_Auklet_0041_795107.jpg",
+    "output": "5/Least_Auklet_0041_795107_40.jpg",
+    "type": "crop",
+    "left": 47,
+    "top": 156,
+    "right": 159,
+    "bottom": 328
+  },
+  "8/Brewer_Blackbird_0041_2653_40.jpg": {
+    "original": "test/009.Brewer_Blackbird/Brewer_Blackbird_0041_2653.jpg",
+    "output": "8/Brewer_Blackbird_0041_2653_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 241,
+        "top": 134,
+        "right": 291,
+        "bottom": 184,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 275,
+        "top": 170,
+        "right": 325,
+        "bottom": 220,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 285,
+        "top": 130,
+        "right": 335,
+        "bottom": 180,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 264,
+        "top": 99,
+        "right": 314,
+        "bottom": 149,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 247,
+        "top": 156,
+        "right": 297,
+        "bottom": 206,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "46/American_Goldfinch_0040_32323_40.jpg": {
+    "original": "test/047.American_Goldfinch/American_Goldfinch_0040_32323.jpg",
+    "output": "46/American_Goldfinch_0040_32323_40.jpg",
+    "type": "crop",
+    "left": 131,
+    "top": 9,
+    "right": 352,
+    "bottom": 177
+  },
+  "13/Indigo_Bunting_0010_13000_41.jpg": {
+    "original": "test/014.Indigo_Bunting/Indigo_Bunting_0010_13000.jpg",
+    "output": "13/Indigo_Bunting_0010_13000_41.jpg",
+    "type": "crop",
+    "left": 69,
+    "top": 66,
+    "right": 283,
+    "bottom": 211
+  },
+  "39/Olive_Sided_Flycatcher_0038_796884_41.jpg": {
+    "original": "test/040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0038_796884.jpg",
+    "output": "39/Olive_Sided_Flycatcher_0038_796884_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 221,
+        "top": 302,
+        "right": 271,
+        "bottom": 352,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 185,
+        "top": 334,
+        "right": 235,
+        "bottom": 384,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "39/Olive_Sided_Flycatcher_0056_30570_41.jpg": {
+    "original": "test/040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0056_30570.jpg",
+    "output": "39/Olive_Sided_Flycatcher_0056_30570_41.jpg",
+    "type": "crop",
+    "left": 159,
+    "top": 38,
+    "right": 315,
+    "bottom": 246
+  },
+  "15/Painted_Bunting_0098_15226_41.jpg": {
+    "original": "test/016.Painted_Bunting/Painted_Bunting_0098_15226.jpg",
+    "output": "15/Painted_Bunting_0098_15226_41.jpg",
+    "type": "crop",
+    "left": 241,
+    "top": 49,
+    "right": 426,
+    "bottom": 172
+  },
+  "0/Black_Footed_Albatross_0050_796125_40.jpg": {
+    "original": "test/001.Black_footed_Albatross/Black_Footed_Albatross_0050_796125.jpg",
+    "output": "0/Black_Footed_Albatross_0050_796125_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 225,
+        "top": 206,
+        "right": 275,
+        "bottom": 256,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 235,
+        "top": 189,
+        "right": 285,
+        "bottom": 239,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 196,
+        "top": 218,
+        "right": 246,
+        "bottom": 268,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "24/Pelagic_Cormorant_0009_23561_40.jpg": {
+    "original": "test/025.Pelagic_Cormorant/Pelagic_Cormorant_0009_23561.jpg",
+    "output": "24/Pelagic_Cormorant_0009_23561_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 250,
+        "top": 13,
+        "right": 300,
+        "bottom": 63,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 248,
+        "top": 8,
+        "right": 298,
+        "bottom": 58,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 243,
+        "top": 26,
+        "right": 293,
+        "bottom": 76,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "22/Brandt_Cormorant_0079_22874_40.jpg": {
+    "original": "test/023.Brandt_Cormorant/Brandt_Cormorant_0079_22874.jpg",
+    "output": "22/Brandt_Cormorant_0079_22874_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 295,
+        "top": 158,
+        "right": 345,
+        "bottom": 208,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 276,
+        "top": 160,
+        "right": 326,
+        "bottom": 210,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 276,
+        "top": 175,
+        "right": 326,
+        "bottom": 225,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "17/Spotted_Catbird_0003_796822_40.jpg": {
+    "original": "test/018.Spotted_Catbird/Spotted_Catbird_0003_796822.jpg",
+    "output": "17/Spotted_Catbird_0003_796822_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 144,
+        "top": 99,
+        "right": 194,
+        "bottom": 149,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 230,
+        "top": 131,
+        "right": 280,
+        "bottom": 181,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 191,
+        "top": 60,
+        "right": 241,
+        "bottom": 110,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 163,
+        "top": 74,
+        "right": 213,
+        "bottom": 124,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 177,
+        "top": 86,
+        "right": 227,
+        "bottom": 136,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 193,
+        "top": 106,
+        "right": 243,
+        "bottom": 156,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "1/Laysan_Albatross_0002_1027_41.jpg": {
+    "original": "test/002.Laysan_Albatross/Laysan_Albatross_0002_1027.jpg",
+    "output": "1/Laysan_Albatross_0002_1027_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 267,
+        "top": 139,
+        "right": 317,
+        "bottom": 189,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 234,
+        "top": 162,
+        "right": 284,
+        "bottom": 212,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 268,
+        "top": 165,
+        "right": 318,
+        "bottom": 215,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 254,
+        "top": 166,
+        "right": 304,
+        "bottom": 216,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 243,
+        "top": 149,
+        "right": 293,
+        "bottom": 199,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 238,
+        "top": 151,
+        "right": 288,
+        "bottom": 201,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 244,
+        "top": 155,
+        "right": 294,
+        "bottom": 205,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 286,
+        "top": 173,
+        "right": 336,
+        "bottom": 223,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 252,
+        "top": 150,
+        "right": 302,
+        "bottom": 200,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 302,
+        "top": 157,
+        "right": 352,
+        "bottom": 207,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 246,
+        "top": 164,
+        "right": 296,
+        "bottom": 214,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "38/Least_Flycatcher_0007_30339_40.jpg": {
+    "original": "test/039.Least_Flycatcher/Least_Flycatcher_0007_30339.jpg",
+    "output": "38/Least_Flycatcher_0007_30339_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 261,
+        "top": 241,
+        "right": 311,
+        "bottom": 291,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 257,
+        "top": 192,
+        "right": 307,
+        "bottom": 242,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "38/Least_Flycatcher_0061_30429_41.jpg": {
+    "original": "test/039.Least_Flycatcher/Least_Flycatcher_0061_30429.jpg",
+    "output": "38/Least_Flycatcher_0061_30429_41.jpg",
+    "type": "crop",
+    "left": 91,
+    "top": 9,
+    "right": 311,
+    "bottom": 235
+  },
+  "21/Chuck_Will_Widow_0015_796962_41.jpg": {
+    "original": "test/022.Chuck_will_Widow/Chuck_Will_Widow_0015_796962.jpg",
+    "output": "21/Chuck_Will_Widow_0015_796962_41.jpg",
+    "type": "crop",
+    "left": 241,
+    "top": 22,
+    "right": 350,
+    "bottom": 141
+  },
+  "4/Crested_Auklet_0074_794949_40.jpg": {
+    "original": "test/005.Crested_Auklet/Crested_Auklet_0074_794949.jpg",
+    "output": "4/Crested_Auklet_0074_794949_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 136,
+        "top": 75,
+        "right": 186,
+        "bottom": 125,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 89,
+        "top": 64,
+        "right": 139,
+        "bottom": 114,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 120,
+        "top": 67,
+        "right": 170,
+        "bottom": 117,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 96,
+        "top": 78,
+        "right": 146,
+        "bottom": 128,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 114,
+        "top": 101,
+        "right": 164,
+        "bottom": 151,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "11/Yellow_Headed_Blackbird_0059_8079_41.jpg": {
+    "original": "test/012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0059_8079.jpg",
+    "output": "11/Yellow_Headed_Blackbird_0059_8079_41.jpg",
+    "type": "crop",
+    "left": 54,
+    "top": 137,
+    "right": 298,
+    "bottom": 300
+  },
+  "11/Yellow_Headed_Blackbird_0098_8367_41.jpg": {
+    "original": "test/012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0098_8367.jpg",
+    "output": "11/Yellow_Headed_Blackbird_0098_8367_41.jpg",
+    "type": "crop",
+    "left": 128,
+    "top": 191,
+    "right": 292,
+    "bottom": 314
+  },
+  "33/Gray_Crowned_Rosy_Finch_0034_797305_41.jpg": {
+    "original": "test/034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0034_797305.jpg",
+    "output": "33/Gray_Crowned_Rosy_Finch_0034_797305_41.jpg",
+    "type": "crop",
+    "left": 228,
+    "top": 196,
+    "right": 469,
+    "bottom": 389
+  },
+  "33/Gray_Crowned_Rosy_Finch_0036_797287_40.jpg": {
+    "original": "test/034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0036_797287.jpg",
+    "output": "33/Gray_Crowned_Rosy_Finch_0036_797287_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 172,
+        "top": 121,
+        "right": 222,
+        "bottom": 171,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 167,
+        "top": 143,
+        "right": 217,
+        "bottom": 193,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 140,
+        "top": 147,
+        "right": 190,
+        "bottom": 197,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "43/Frigatebird_0120_43300_41.jpg": {
+    "original": "test/044.Frigatebird/Frigatebird_0120_43300.jpg",
+    "output": "43/Frigatebird_0120_43300_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 104,
+        "top": 162,
+        "right": 154,
+        "bottom": 212,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 137,
+        "top": 163,
+        "right": 187,
+        "bottom": 213,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 126,
+        "top": 164,
+        "right": 176,
+        "bottom": 214,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 116,
+        "top": 157,
+        "right": 166,
+        "bottom": 207,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 120,
+        "top": 156,
+        "right": 170,
+        "bottom": 206,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 134,
+        "top": 195,
+        "right": 184,
+        "bottom": 245,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 184,
+        "top": 161,
+        "right": 234,
+        "bottom": 211,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 115,
+        "top": 162,
+        "right": 165,
+        "bottom": 212,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "14/Lazuli_Bunting_0084_14815_41.jpg": {
+    "original": "test/015.Lazuli_Bunting/Lazuli_Bunting_0084_14815.jpg",
+    "output": "14/Lazuli_Bunting_0084_14815_41.jpg",
+    "type": "crop",
+    "left": 65,
+    "top": 112,
+    "right": 222,
+    "bottom": 217
+  },
+  "7/Rhinoceros_Auklet_0048_2162_41.jpg": {
+    "original": "test/008.Rhinoceros_Auklet/Rhinoceros_Auklet_0048_2162.jpg",
+    "output": "7/Rhinoceros_Auklet_0048_2162_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 334,
+        "top": 79,
+        "right": 384,
+        "bottom": 129,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 311,
+        "top": 62,
+        "right": 361,
+        "bottom": 112,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 292,
+        "top": 63,
+        "right": 342,
+        "bottom": 113,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 289,
+        "top": 96,
+        "right": 339,
+        "bottom": 146,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "45/Gadwall_0052_30915_41.jpg": {
+    "original": "test/046.Gadwall/Gadwall_0052_30915.jpg",
+    "output": "45/Gadwall_0052_30915_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 138,
+        "top": 59,
+        "right": 188,
+        "bottom": 109,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 153,
+        "top": 80,
+        "right": 203,
+        "bottom": 130,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 93,
+        "top": 95,
+        "right": 143,
+        "bottom": 145,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 127,
+        "top": 77,
+        "right": 177,
+        "bottom": 127,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 129,
+        "top": 114,
+        "right": 179,
+        "bottom": 164,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "45/Gadwall_0088_31854_40.jpg": {
+    "original": "test/046.Gadwall/Gadwall_0088_31854.jpg",
+    "output": "45/Gadwall_0088_31854_40.jpg",
+    "type": "crop",
+    "left": 21,
+    "top": 197,
+    "right": 261,
+    "bottom": 389
+  },
+  "40/Scissor_Tailed_Flycatcher_0006_41601_41.jpg": {
+    "original": "test/041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0006_41601.jpg",
+    "output": "40/Scissor_Tailed_Flycatcher_0006_41601_41.jpg",
+    "type": "crop",
+    "left": 168,
+    "top": 52,
+    "right": 306,
+    "bottom": 244
+  },
+  "30/Black_Billed_Cuckoo_0045_26194_41.jpg": {
+    "original": "test/031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0045_26194.jpg",
+    "output": "30/Black_Billed_Cuckoo_0045_26194_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 230,
+        "top": 105,
+        "right": 280,
+        "bottom": 155,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 272,
+        "top": 78,
+        "right": 322,
+        "bottom": 128,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 255,
+        "top": 99,
+        "right": 305,
+        "bottom": 149,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 223,
+        "top": 139,
+        "right": 273,
+        "bottom": 189,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  },
+  "19/Yellow_Breasted_Chat_0001_21928_41.jpg": {
+    "original": "test/020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0001_21928.jpg",
+    "output": "19/Yellow_Breasted_Chat_0001_21928_41.jpg",
+    "type": "crop",
+    "left": 208,
+    "top": 232,
+    "right": 437,
+    "bottom": 435
+  },
+  "12/Bobolink_0115_9265_41.jpg": {
+    "original": "test/013.Bobolink/Bobolink_0115_9265.jpg",
+    "output": "12/Bobolink_0115_9265_41.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 220,
+        "top": 146,
+        "right": 270,
+        "bottom": 196,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 211,
+        "top": 173,
+        "right": 261,
+        "bottom": 223,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "left": 187,
+        "top": 182,
+        "right": 237,
+        "bottom": 232,
+        "fill": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "12/Bobolink_0120_10859_40.jpg": {
+    "original": "test/013.Bobolink/Bobolink_0120_10859.jpg",
+    "output": "12/Bobolink_0120_10859_40.jpg",
+    "type": "mask",
+    "masks": [
+      {
+        "left": 293,
+        "top": 228,
+        "right": 343,
+        "bottom": 278,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 306,
+        "top": 158,
+        "right": 356,
+        "bottom": 208,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "left": 301,
+        "top": 191,
+        "right": 351,
+        "bottom": 241,
+        "fill": [
+          128,
+          128,
+          128
+        ]
+      }
+    ]
+  }
+}

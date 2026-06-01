@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints*/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Datasets
+datasets/
+
+# Logs
+*.log
+runs/
+wandb/
+lightning_logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Temporary
+*.tmp
+*.bak
